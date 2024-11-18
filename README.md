@@ -1,7 +1,9 @@
 # MultiModal-Knowledge-Base
 ## What are multimodals?
-add diagram from paper and also the details here
+Multimodal MLLMs (Multimodal Large Language Models) are advanced AI systems that combine the capabilities of Large Language Models (LLMs)—like GPT, which processes and generates text—with the ability to handle multiple types of data modalities, such as images, audio, video, and more. These models enable richer and more versatile interactions by integrating and processing data from various formats simultaneously.
 
+Here one simple diagram from the [source](https://medium.com/@tenyks_blogger/multimodal-large-language-models-mllms-transforming-computer-vision-76d3c5dd267f)
+![test3](https://github.com/pallavig702/MultiModal-Knowledge-Base/blob/main/Images/MLLM_Architecture.png)
 ```diff
 -There are small, medium and large models.
 ```
