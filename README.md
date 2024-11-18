@@ -5,7 +5,7 @@ add diagram from paper and also the details here
 ```diff
 -There are small, medium and large models.
 ```
-Attach table
+![test2](https://github.com/pallavig702/MultiModal-Knowledge-Base/blob/main/Images/MLLM3.png)
 
 ```diff
 -Here are examples of open source and closed source models.
