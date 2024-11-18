@@ -6,7 +6,7 @@ There are small, medium and large models.
 Attach table
 
 Here are examples of open source and closed source models.
-[!test](https://github.com/pallavig702/MultiModal-Knowledge-Base/blob/main/Images/MLLM_s.png)
+![test](https://github.com/pallavig702/MultiModal-Knowledge-Base/blob/main/Images/MLLM_s.png)
 
 Key Takeaways:
 Small models prioritize efficiency and cost-effectiveness, often deployed in resource-constrained environments.
