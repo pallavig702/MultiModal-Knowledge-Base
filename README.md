@@ -1,11 +1,17 @@
 # MultiModal-Knowledge-Base
+```diff
 What are multimodals?
+```
 add diagram from paper and also the details here
 
+```diff
 There are small, medium and large models.
+```
 Attach table
 
+```diff
 Here are examples of open source and closed source models.
+```
 ![test](https://github.com/pallavig702/MultiModal-Knowledge-Base/blob/main/Images/MLLM_s.png)
 
 Key Takeaways:
