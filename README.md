@@ -22,7 +22,7 @@ Large models push the boundaries of performance, handling complex and nuanced ta
 Few more examples of small, medium and large models.
 
 
-## To effectively use a MLLM (samll, medium or large) what needs to be understood?
+## To effectively use an MLLM (samll, medium or large) what needs to be understood?
 For this you need to understand several aspects spanning concepts, technical skills, and application-specific considerations.Let's take example of MLLM LLaVA-NeXT-Video-72B or similar. Here's a structured guide:
 
 1. Foundational Concepts
