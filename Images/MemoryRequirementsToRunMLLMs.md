@@ -1,0 +1,1 @@
+The memory requirements to use a ** 7 billion parameter MLLM ** depend on several factors, including the ** numerical precision (e.g., FP32, FP16) ** and the task (training vs. inference). Here’s a detailed breakdown:
